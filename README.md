@@ -55,9 +55,9 @@ $display is used for cycle-by-cycle debugging of register/memory contents.
 
 GTKWave is used to view the waveform (.vcd) files, allowing detailed inspection of instruction flow, control signals, memory access, and data hazards.
 
-Example: ADD_THREE_NUMBERS_TB.v is the testbench.
+Example: ADD_THREE_NUMBERS_TB.v , Factorial_Number.v is the testbench.
 
-Run simulation to generate ADD_THREE_NUMBERS.vcd, then open it in GTKWave for visual debugging.
+Run simulation to generate ADD_THREE_NUMBERS.vcd, Factorial.vcd then open it in GTKWave for visual debugging.
 
 👨‍💻 Author
 Ankit Kumar
