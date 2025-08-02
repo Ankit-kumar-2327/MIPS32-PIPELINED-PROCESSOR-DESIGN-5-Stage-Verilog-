@@ -60,6 +60,6 @@ Example: ADD_THREE_NUMBERS_TB.v is the testbench.
 Run simulation to generate ADD_THREE_NUMBERS.vcd, then open it in GTKWave for visual debugging.
 
 👨‍💻 Author
-Golu Patel
+Ankit Kumar
 B.Tech in Electronics and Communication Engineering
 Indian Institute of Information Technology Guwahati (IIITG)
